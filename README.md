@@ -1,2 +1,2 @@
-# Dashboard-Empresa-Fict-cia
+# Dashboard-Empresa-Ficticia
 Análise de um dashboard.
