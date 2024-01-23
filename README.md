@@ -1,4 +1,4 @@
-# Dashboard-Empresa-Ficticia
+# Dashboard de Vendas
 Repositório de Dashboards feitas em Power BI.
 
 Dashboard feito com base nos questionamentos:
