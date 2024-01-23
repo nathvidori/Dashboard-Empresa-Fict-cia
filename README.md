@@ -1,7 +1,7 @@
 # Dashboard de Vendas
 Repositório de Dashboards feitas em Power BI.
 
-Dashboard feito com base nos questionamentos:
+Dashboard desenvolvido com base nos questionamentos:
 1- Qual o faturamento total da empresa?
 2- Qual a soma total em produtos vendidos?
 3- Qual a soma de faturamento por produto?
